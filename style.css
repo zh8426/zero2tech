@@ -39,3 +39,30 @@ button {
 button:hover {
   background-color: #2980b9;
 }
+
+  .site-footer {
+    padding: 24px 16px;
+    text-align: center;
+    font-size: 14px;
+    color: #777;
+    background-color: #f7f7f7;
+  }
+
+  .site-footer p {
+    margin: 0;
+  }
+
+  .site-footer a {
+    color: #777;
+    text-decoration: none;
+  }
+
+  .site-footer a:hover {
+    color: #333;
+    text-decoration: underline;
+  }
+
+  .divider {
+    margin: 0 10px;
+    color: #ccc;
+  }
